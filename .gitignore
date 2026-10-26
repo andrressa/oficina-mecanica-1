@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+*.sqlite3
+node_modules/
+dist/
+# Migrations devem ser versionadas.
